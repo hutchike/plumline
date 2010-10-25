@@ -73,3 +73,7 @@ body {
 .padded-right {
     right-padding: 20px;
 }
+
+.align-right {
+    text-align: right;
+}

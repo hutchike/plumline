@@ -8,7 +8,7 @@ class App_controller extends Controller
         $this->render->session_user_id = $this->session->user_id;
         $this->render->session_user_email = $this->session->user_email;
         $this->render->user_email = $this->cookie->user_email;
-        $this->render->title = 'Plumline - Online Sangha in the tradition of Thich Nhat Hanh';
+        $this->render->title = 'Online Sangha in the tradition of Thich Nhat Hanh';
         $this->render->onload = '';
         $this->render->layout = 'simple';
     }

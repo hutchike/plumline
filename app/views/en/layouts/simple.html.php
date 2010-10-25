@@ -10,6 +10,7 @@
         </div>
     </div>
     <div id="content">
+<?= indent("<h3>$title</h3>", 8) ?>
 <?= indent($content, 8) ?>
     </div>
     <div id="footer">
