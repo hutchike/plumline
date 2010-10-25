@@ -16,3 +16,8 @@
    ideas and resources as online<br/>
    Sangha develops.
 </p>
+<p>
+    "Without Sangha the practitioner<br/>
+    will quickly lose their practice"<br/>
+    - Thich Nhat Hanh
+</p>
