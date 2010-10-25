@@ -65,3 +65,11 @@ body {
     height: 80px;
     text-align: center;
 }
+
+.padded-left {
+    left-padding: 20px;
+}
+
+.padded-right {
+    right-padding: 20px;
+}
