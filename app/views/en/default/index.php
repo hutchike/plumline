@@ -1,4 +1,4 @@
-<h3>Online Sangha In the tradition of Thich Nhat Hanh</h3>
+<h3>Online Sangha in the tradition of Thich Nhat Hanh</h3>
 
 <img src="/images/lotus-tea-anyone.jpg" width="500" height="375" align="right" />
 <p>
