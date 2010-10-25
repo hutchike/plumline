@@ -1,0 +1,35 @@
+a {
+    border: 0;
+}
+
+body {
+    background-color: #ccc;
+    margin: 0;
+    padding: 0;
+}
+
+#page {
+    position: relative;
+    width: 900px;
+    height: 100%;
+    margin-left: 50%;
+    left: -450px;
+    background-color: #f0d26e;
+    min-height: 600px;
+}
+
+#page #header {
+    padding: 5px;
+}
+
+#page #content {
+    padding: 5px;
+    min-height: 500px;
+    background-color: white;
+}
+
+#page #footer {
+    padding: 5px;
+    height: 50px;
+    text-align: center;
+}
