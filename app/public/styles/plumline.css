@@ -6,6 +6,7 @@ body {
 
 a {
     border: 0;
+    color: #33c;
 }
 
 body {
@@ -26,6 +27,29 @@ body {
 
 #page #header {
     padding: 5px;
+}
+
+#page #header #links {
+    position: absolute;
+    right: 20px;
+    top: 60px;
+}
+
+#page #header #links ul {
+    display: inline;
+    list-style: none;
+    padding: 0;
+}
+
+#page #header #links ul li {
+    display: inline;
+    border-left: 1px solid #ada57a;
+    padding-left: 9px;
+    padding-right: 6px;
+}
+
+#page #header #links ul li.first {
+    border-left: 0;
 }
 
 #page #content {
