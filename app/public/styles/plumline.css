@@ -1,4 +1,4 @@
-body {
+body, div, td, input, textarea {
     font-family: Georgia, Times New Roman, Times, Serif;
     font-size: 12pt;
     color: #642;
