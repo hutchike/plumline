@@ -22,7 +22,10 @@
 </tr>
 <tr>
     <td class="align-right"></td>
-    <td><?= HTML::submit('contact', 'Contact the Sangha') ?> <?= Form::spam_field() ?></td>
+    <td>
+        <?= HTML::submit('contact', 'Contact the Sangha') ?>
+        <?= Form::spam_field() ?>
+    </td>
 </tr>
 </table>
 </form>
