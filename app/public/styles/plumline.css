@@ -5,8 +5,11 @@ body, div, td, input, textarea {
 }
 
 a {
-    border: 0;
     color: #33c;
+}
+
+img {
+    border: 0;
 }
 
 body {
@@ -18,14 +21,13 @@ body {
 #page {
     position: relative;
     width: 900px;
-    height: 100%;
     margin-left: 50%;
     left: -450px;
-    background-color: #f0d26e;
-    min-height: 600px;
+    background-color: white;
 }
 
 #page #header {
+    background-color: #f0d26e;
     padding: 5px;
 }
 
@@ -72,8 +74,8 @@ body {
 }
 
 #page #footer {
+    clear: both;
     padding: 40px;
-    height: 40px;
     font-size: 10pt;
     text-align: center;
     background: url(/images/shadow.png) repeat-x 0 0;

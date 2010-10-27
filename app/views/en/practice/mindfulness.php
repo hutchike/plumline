@@ -1,4 +1,4 @@
-<a href="/images/originals/Thay.jpg" title="Click to download"><img src="/images/Thay.jpg" width="200" height="272" alt="Thich Nhat Hanh" align="right" /></a>
+<a href="/images/originals/Thay.jpg" title="Click to download"><img class="padded-left" src="/images/Thay.jpg" width="200" height="272" alt="Thich Nhat Hanh" align="right" /></a>
 <div>Our dear teacher Thay promotes the development of mindfulness.</div>
 <div>Sangha members are invited to study the mindfulness trainings.</div>
 <ul>
