@@ -11,6 +11,18 @@ class App_controller extends Controller
         $this->render->title = 'Online Sangha in the tradition of Thich Nhat Hanh';
         $this->render->onload = '';
         $this->render->layout = 'simple';
+        $this->render->image = $this->get_random_image();
+    }
+
+    public function get_random_image()
+    {
+        $images = array(
+            'Buddha-statue-by-wall.jpg',
+            'Buddha-statue-in-garden.jpg',
+            'beautiful-lotus-flower.jpg',
+            'lotus-tea-anyone.jpg',
+        );
+        return $images[ rand(0, count($images)-1) ];
     }
 }
 

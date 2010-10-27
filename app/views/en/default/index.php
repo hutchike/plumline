@@ -1,4 +1,4 @@
-<img id="photo" class="padded-left" src="/images/lotus-tea-anyone.jpg" width="500" height="375" align="right" alt="Inspirational photo" />
+<img id="photo" class="padded-left" src="/images/<?= $image ?>" width="500" height="375" align="right" alt="Inspirational photo" />
 <p>
    Plumline is not a replacement for<br/>
    face-to-face Sangha, but a viable<br/>
