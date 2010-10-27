@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="/styles/plumline.css" type="text/css" />
     <script type="text/javascript" src="/scripts/plumline.js"></script>
 </head>
-<body>
+<body onload="<?= $onload ?>">
     <?= $content ?>
 </body>
 </html>
