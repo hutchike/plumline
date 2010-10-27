@@ -7,19 +7,35 @@ class Contact_controller extends App_controller
     public function form()
     {
         $this->render->title = 'Contact form';
-        $member = new Member($this->params->member);
+        $member = $this->render->member = new Member($this->params->member);
+        if (Spam::fail($this->params)) return;
+
         if ($found = $member->find_first(array('email' => $member->email)))
         {
-            $this->flash->now = 'We\'re sorry but that member has already registered. Please use an alternative email address.';
+            // Member record already exists
         }
         else
         {
             $member->status = 'P'; // Pending approval
-            if (Spam::pass($this->params) && $member->save())
-            {
-                $this->redirect('', array('notice' => 'Thank you for your interest. Please expect a friendly email from us in the next few days.'));
-            }
+            $member->save();
         }
-        $this->render->member = $member;
+
+        // Send any member inquiry message
+
+        if ($member->name && $member->email && $member->interest)
+        {
+            $this->send_member_inquiry($member);
+            $this->redirect('', array('notice' => 'Thank you for your interest. Please expect a friendly email from us in the next few days.'));
+        }
+    }
+
+    private function send_member_inquiry($member)
+    {
+        $this->send_mail('inquiry', array(
+                            'to'       => CONTACT_EMAIL,
+                            'from'     => $member->email,
+                            'subject'  => 'Plumline member inquiry',
+                            'member'   => $member,
+                        ));
     }
 }
