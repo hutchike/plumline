@@ -94,3 +94,8 @@ body {
 .input-field {
     width: 200px;
 }
+
+.validation_message {
+    color: #f00;
+    background-color: #ff0;
+}
