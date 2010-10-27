@@ -1,4 +1,4 @@
-<a href="/images/originals/<?= $image ?>" title="Click to download"><img id="photo" class="padded-left" src="/images/<?= $image ?>" width="500" height="375" align="right" alt="Inspirational photo" /></a>
+<a href="/images/originals/<?= $image ?>" title="Click to download"><img id="photo" class="padded-left" src="/images/<?= $image ?>" lowsrc="/images/lowsrc/<?= $image ?>" width="500" height="375" align="right" alt="Inspirational photo" /></a>
 <p>
    Plumline is not a replacement for<br/>
    face-to-face Sangha, but a viable<br/>
