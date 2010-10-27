@@ -19,3 +19,6 @@
     will quickly lose their practice"<br/>
     - <a href="http://www.google.com/#hl=en&q=Thich+Nhat+Hanh&fp=1">Thich Nhat Hanh</a>
 </p>
+<p>
+    To join, please use our <a href="/contact/form">contact form</a>.
+</p>

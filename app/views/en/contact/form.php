@@ -1,3 +1,7 @@
+<p>
+    We will try to respond to your inquiry as soon as possible. Thank you for your patience.
+</p>
+
 <?= HTML::form_open('contact', 'contact/form', Spam::form_attrs()) ?>
 <table>
 <tr>
@@ -17,7 +21,7 @@
     <td><?= HTML::input('member->timezone', array('class' => 'input-field')) ?> <?= HTML::validation_message('member->timezone') ?></td>
 </tr>
 <tr>
-    <td class="align-right">Why I'd like to join<br/>(or other message)</td>
+    <td class="align-right">Why you'd like to join<br/>(or another message)</td>
     <td><?= HTML::textarea('member->interest', array('cols' => 50, 'rows' => 5)) ?></td>
 </tr>
 <tr>
