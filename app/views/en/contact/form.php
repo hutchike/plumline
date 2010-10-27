@@ -1,4 +1,4 @@
-<?= HTML::form_open('contact', 'contact/form', Form::spam_attrs()) ?>
+<?= HTML::form_open('contact', 'contact/form', Spam::form_attrs()) ?>
 <table>
 <tr>
     <td class="align-right">Name</td>
@@ -24,9 +24,9 @@
     <td class="align-right"></td>
     <td>
         <?= HTML::submit('contact', 'Contact the Sangha') ?>
-        <?= Form::spam_field() ?>
+        <?= Spam::form_field() ?>
     </td>
 </tr>
 </table>
 </form>
-<?= Form::spam_script() ?>
+<?= Spam::form_script() ?>

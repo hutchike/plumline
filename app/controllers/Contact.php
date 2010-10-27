@@ -1,6 +1,6 @@
 <?
 load_model('Member');
-load_helper('Form');
+load_helper('Spam');
 
 class Contact_controller extends App_controller
 {
@@ -14,7 +14,8 @@ class Contact_controller extends App_controller
         }
         else
         {
-            if (!Form::is_spam($this->params) && $member->save())
+            $member->status = 'P'; // Pending approval
+            if (Spam::pass($this->params) && $member->save())
             {
                 $this->redirect('', array('notice' => 'Thank you for your interest. Please expect a friendly email from us in the next few days.'));
             }
