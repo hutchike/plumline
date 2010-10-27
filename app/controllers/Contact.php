@@ -1,5 +1,6 @@
 <?
 load_model('Member');
+load_helper('Form');
 
 class Contact_controller extends App_controller
 {
@@ -13,7 +14,7 @@ class Contact_controller extends App_controller
         }
         else
         {
-            if ($member->save())
+            if (!Form::is_spam($this->params) && $member->save())
             {
                 $this->redirect('', array('notice' => 'Thank you for your interest. Please expect a friendly email from us in the next few days.'));
             }
