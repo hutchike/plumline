@@ -11,4 +11,4 @@
     <li><a href="http://www.plumvillage.org/">Plum Village</a></li>
 </ul>
 
-<p>If you'd like to suggest a link, please <a href="/contact/form">contact us</a>.
+<p>To suggest a link, please <a href="/contact/form">contact us</a>.
