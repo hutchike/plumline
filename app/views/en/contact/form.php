@@ -2,7 +2,7 @@
     We will try to respond to your inquiry as soon as possible. Thank you for your patience.
 </p>
 
-<?= HTML::form_open('contact', 'contact/form', Spam::form_attrs()) ?>
+<?= HTML::form_open('contact', 'contact/form', Form::spam_attrs()) ?>
 <table>
 <tr>
     <td class="align-right">Name</td>
@@ -28,9 +28,9 @@
     <td class="align-right"></td>
     <td>
         <?= HTML::submit('contact', 'Contact the Sangha') ?>
-        <?= Spam::form_field() ?>
+        <?= Form::spam_field() ?>
     </td>
 </tr>
 </table>
 </form>
-<?= Spam::form_script() ?>
+<?= Form::spam_script() ?>

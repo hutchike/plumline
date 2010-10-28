@@ -1,6 +1,6 @@
 <?
 load_model('Member');
-load_helper('Spam');
+load_helper('Form');
 
 class Contact_controller extends App_controller
 {
@@ -8,7 +8,7 @@ class Contact_controller extends App_controller
     {
         $this->render->title = 'Contact form';
         $member = $this->render->member = new Member($this->params->member);
-        if (Spam::fail($this->params)) return;
+        if (Form::is_spam($this->params)) return;
 
         if ($found = $member->find_first(array('email' => $member->email)))
         {
