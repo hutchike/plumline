@@ -30,4 +30,4 @@
 <p>Clearly we don't need someone from every country, not yet.  We need folks from time zones that can accommodate Europe, Africa, Asia, and South America.  These are some of the places we have heard from so far ~
 Australia, Austria, Canada, South America, Africa, France, Germany, Greece, India, Ireland, Israel, Malaysia, Mexico, Norway, Scotland, Spain, Syria, Senegal, Thailand, UK, United Arab Emirates, US.</p>
 
-<p>"Plumline has already become more than Allen and I imagined.  It has become a vital worldwide Sangha connection" ~ one we hope will continue for years to come.</p>
+<p>"Plumline has already become more than Allan and I imagined.  It has become a vital worldwide Sangha connection" ~ one we hope will continue for years to come.</p>
