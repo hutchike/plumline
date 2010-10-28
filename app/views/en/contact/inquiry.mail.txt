@@ -1,9 +1,0 @@
-Plumline member inquiry
-=======================
-
-Name: <?= $member->name . "\n" ?>
-Email: <?= $member->email . "\n" ?>
-Country: <?= $member->country . "\n" ?>
-Timezone: <?= $member->timezone . "\n" ?>
-
-<?= $member->interest . "\n" ?>

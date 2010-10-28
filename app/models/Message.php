@@ -1,5 +1,5 @@
 <?
-class Member extends Model
+class Message extends Model
 {
     public function setup()
     {
@@ -12,4 +12,4 @@ class Member extends Model
     }
 }
 
-// End of Member.php
+// End of Message.php

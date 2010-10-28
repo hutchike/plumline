@@ -6,23 +6,23 @@
 <table>
 <tr>
     <td class="align-right">Name</td>
-    <td><?= HTML::input('member->name', array('class' => 'input-field')) ?> <?= HTML::validation_message('member->name') ?></td>
+    <td><?= HTML::input('message->name', array('class' => 'input-field')) ?> <?= HTML::validation_message('message->name') ?></td>
 </tr>
 <tr>
     <td class="align-right">Email address</td>
-    <td><?= HTML::input('member->email', array('class' => 'input-field')) ?> <?= HTML::validation_message('member->email') ?></td>
+    <td><?= HTML::input('message->email', array('class' => 'input-field')) ?> <?= HTML::validation_message('message->email') ?></td>
 </tr>
 <tr>
     <td class="align-right">Country</td>
-    <td><?= HTML::input('member->country', array('class' => 'input-field')) ?> <?= HTML::validation_message('member->country') ?></td>
+    <td><?= HTML::input('message->country', array('class' => 'input-field')) ?> <?= HTML::validation_message('message->country') ?></td>
 </tr>
 <tr>
     <td class="align-right">Timezone</td>
-    <td><?= HTML::input('member->timezone', array('class' => 'input-field')) ?> <?= HTML::validation_message('member->timezone') ?></td>
+    <td><?= HTML::input('message->timezone', array('class' => 'input-field')) ?> <?= HTML::validation_message('message->timezone') ?></td>
 </tr>
 <tr>
     <td class="align-right">Why you'd like to join<br/>(or another message)</td>
-    <td><?= HTML::textarea('member->interest', array('cols' => 50, 'rows' => 5)) ?></td>
+    <td><?= HTML::textarea('message->content', array('cols' => 50, 'rows' => 5)) ?></td>
 </tr>
 <tr>
     <td class="align-right"></td>
