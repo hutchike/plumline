@@ -1,4 +1,5 @@
-create table if not exists messages
+drop table if exists messages;
+create table messages
 (
     id          integer unsigned auto_increment primary key,
     name        varchar(255),
