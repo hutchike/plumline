@@ -1,9 +1,9 @@
 Plumline member inquiry
 =======================
 
-Name: <?= $member->name ?>
-Email: <?= $member->email ?>
-Country: <?= $member->country ?>
-Timezone: <?= $member->timezone ?>
+Name: <?= $member->name . "\n" ?>
+Email: <?= $member->email . "\n" ?>
+Country: <?= $member->country . "\n" ?>
+Timezone: <?= $member->timezone . "\n" ?>
 
-<?= $member->interest ?>
+<?= $member->interest . "\n" ?>
