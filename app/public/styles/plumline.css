@@ -94,6 +94,10 @@ body {
     text-align: right;
 }
 
+.align-center {
+    text-align: center;
+}
+
 .input-field {
     width: 200px;
 }
