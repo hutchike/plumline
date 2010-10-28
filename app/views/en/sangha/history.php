@@ -2,7 +2,7 @@
 
 <p>Elaine Sparrow, Chan Lien Tam, True Lotus Heart, Colorado, USA, having similar difficulties, thought this was a great idea, wanted to help, contacted Allan, and Plumline Sangha, was born.</p>
 
-<p>The 2 began meeting weekly and over time set up a workable online meeting format. To start we used <a href="http://messenger.yahoo.com/">Yahoo Messenger</a>. We had hoped to connect via web cam and voice, found out our different systems weren't compatible for the increased technology and stayed with IM ~ the system we still use.</p>
+<p>The 2 began meeting weekly and over time set up a workable online meeting format. To start we used <a href="http://messenger.yahoo.com/">Yahoo Instant Messenger</a> (IM). We had hoped to connect via web cam and voice, found out our different systems weren't compatible for the increased technology and stayed with IM ~ the system we still use.</p>
 
 <p>While in Plum Village in June 2006, Elaine met people who lived in remote places with no Sangha nearby. She saw the potential of the use of Online Sangha by people who are geographically limited as well as the physically limited. Elaine posted signs, put out a sign-up sheet during the Sangha Fair, and spoke with people about Plumline. Comments ranged from "a great idea" to "this will be huge over time".
 
