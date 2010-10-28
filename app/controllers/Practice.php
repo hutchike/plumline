@@ -22,4 +22,9 @@ class Practice_controller extends App_controller
     {
         $this->render->title = self::$mindfulness_link . ' > The 14 mindfulness trainings';
     }
+
+    public function the_5_hindrances()
+    {
+        $this->render->title = self::$mindfulness_link . ' > The 5 hindrances';
+    }
 }
