@@ -23,7 +23,7 @@ class Contact_controller extends App_controller
                             'to'       => CONTACT_EMAIL,
                             'from'     => $message->email,
                             'subject'  => 'Plumline website message',
-                            'message'   => $message,
+                            'message'  => $message,
                         ));
     }
 }
