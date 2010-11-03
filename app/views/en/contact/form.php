@@ -2,7 +2,7 @@
     We will try to respond to your inquiry as soon as possible. Thank you for your patience.
 </p>
 
-<?= HTML::form_open('contact', 'contact/form', Form::spam_attrs()) ?>
+<?= Form::open('contact', 'contact/form') ?>
 <table>
 <tr>
     <td class="align-right">Name</td>

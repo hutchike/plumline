@@ -12,18 +12,18 @@ class Contact_controller extends App_controller
         $message->status = 'P'; // Pending
         if ($message->save())
         {
-            $this->send($message);
-            $this->redirect('', array('notice' => 'Thank you for your interest. Please expect a friendly email from us in the next few days.'));
+            $this->flash->sent = $this->send($message);
+            $this->redirect('default/index', array('notice' => 'Thank you for your interest. Please expect a friendly email from us in the next few days.'));
         }
     }
 
     private function send($message)
     {
-        $this->send_mail('message', array(
-                            'to'       => CONTACT_EMAIL,
-                            'from'     => $message->email,
-                            'subject'  => 'Plumline website message',
-                            'message'  => $message,
-                        ));
+        return $this->send_mail('message', array(
+                                    'to'       => CONTACT_EMAIL,
+                                    'from'     => $message->email,
+                                    'subject'  => 'Plumline website message',
+                                    'message'  => $message,
+                                ));
     }
 }
