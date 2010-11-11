@@ -20,5 +20,7 @@
     - <a href="http://www.google.com/#hl=en&q=Thich+Nhat+Hanh&fp=1">Thich Nhat Hanh</a>
 </p>
 <p>
-    To join, please use our <a href="/contact/form">contact form</a>.
+    To join, please use our <a href="/contact/form">contact form</a>.<br/>
+    (You will need a <a href="https://edit.yahoo.com/registration">Yahoo user account</a><br/>
+    and the <a href="http://messenger.yahoo.com/">Yahoo Messenger</a> program).
 </p>
