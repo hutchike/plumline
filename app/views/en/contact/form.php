@@ -9,7 +9,8 @@
     <td><?= HTML::input('message->name', array('class' => 'input-field')) ?> <?= HTML::validation_message('message->name') ?></td>
 </tr>
 <tr>
-    <td class="align-right"><strong>Yahoo</strong> email address</td>
+    <td class="align-right">
+<a href="https://edit.yahoo.com/registration">Yahoo email address</a></td>
     <td><?= HTML::input('message->email', array('class' => 'input-field')) ?> <?= HTML::validation_message('message->email') ?></td>
 </tr>
 <tr>
