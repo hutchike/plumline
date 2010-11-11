@@ -1,5 +1,5 @@
 <p>
-    Please include details about your <a href="https://edit.yahoo.com/registration">Yahoo user account</a>.<br/>
+    Please include details about your <a href="https://edit.yahoo.com/registration">Yahoo user name</a>.<br/>
     Note that we use <a href="http://messenger.yahoo.com/">Yahoo Messenger</a> to communicate.
 </p>
 <?= Form::open('contact', 'contact/form') ?>
