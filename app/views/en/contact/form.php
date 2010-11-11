@@ -1,6 +1,6 @@
 <p>
-    Please include details about your <a href="https://edit.yahoo.com/registration">Yahoo user name</a>.<br/>
-    Note that we use <a href="http://messenger.yahoo.com/">Yahoo Messenger</a> to communicate.
+    Please download and install <a href="http://messenger.yahoo.com/">Yahoo Messenger</a> on your<br/>
+    computer if you do not already use it. (It is required).<br/>
 </p>
 <?= Form::open('contact', 'contact/form') ?>
 <table>
@@ -9,7 +9,7 @@
     <td><?= HTML::input('message->name', array('class' => 'input-field')) ?> <?= HTML::validation_message('message->name') ?></td>
 </tr>
 <tr>
-    <td class="align-right">Email address</td>
+    <td class="align-right"><strong>Yahoo</strong> email address</td>
     <td><?= HTML::input('message->email', array('class' => 'input-field')) ?> <?= HTML::validation_message('message->email') ?></td>
 </tr>
 <tr>
@@ -21,7 +21,7 @@
     <td><?= HTML::input('message->timezone', array('class' => 'input-field')) ?> <?= HTML::validation_message('message->timezone') ?></td>
 </tr>
 <tr>
-    <td class="align-right">Why you'd like to join<br/>(or another message)</td>
+    <td class="align-right">Why you'd like to join<br/>and how you found us</td>
     <td><?= HTML::textarea('message->content', array('cols' => 50, 'rows' => 10)) ?></td>
 </tr>
 <tr>
