@@ -1,7 +1,7 @@
 <p>
-    We will try to respond to your inquiry as soon as possible. Thank you for your patience.
+    Please include details about your <a href="https://edit.yahoo.com/registration">Yahoo user account</a>.<br/>
+    Note that we use <a href="http://messenger.yahoo.com/">Yahoo Messenger</a> to communicate.
 </p>
-
 <?= Form::open('contact', 'contact/form') ?>
 <table>
 <tr>
@@ -22,7 +22,7 @@
 </tr>
 <tr>
     <td class="align-right">Why you'd like to join<br/>(or another message)</td>
-    <td><?= HTML::textarea('message->content', array('cols' => 50, 'rows' => 5)) ?></td>
+    <td><?= HTML::textarea('message->content', array('cols' => 50, 'rows' => 10)) ?></td>
 </tr>
 <tr>
     <td class="align-right"></td>
