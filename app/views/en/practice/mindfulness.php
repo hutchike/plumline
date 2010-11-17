@@ -8,7 +8,7 @@
 </ul>
 
 <h3>About our Sangha meeting format</h3>
-We follow the following Sangha format:
+We meet twice a week for between 1 and 2 hours, following our Sangha format:
 <ol>
     <li>20-25 minute seated meditation, or feel free to do walking meditation if you prefer.<br/>
         (Note: If your computer can receive streaming audio and/or video you are often invited to share in a guided meditation).</li>
@@ -17,7 +17,7 @@ We follow the following Sangha format:
         (We also, sometimes, contemplate a reading by Thay during part of this period).</li>
 </ol>
 
-<p>We have adopted the following guideline which makes online discussion efficient:</p>
+<p>We have adopted the following guideline to make our online discussion more efficient:</p>
 
 <p>Just as in face to face Sangha, we use the bow as a signal that we would like to speak. When you wish to speak, type in the word "Bow" and post it so the group knows you wish to speak. Then type your comments and post them, taking as much time as you need. When you are finished speaking post the word "Bow" again to let everyone know when you are finished.</p>
 
