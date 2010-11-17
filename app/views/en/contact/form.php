@@ -1,7 +1,7 @@
 <p>
-    We will try to respond to your inquiry as soon as possible. Thank you for your patience.
+    Please download and install <a href="http://messenger.yahoo.com/">Yahoo Messenger</a> on your<br/>
+    computer if you do not already use it. (It is required).<br/>
 </p>
-
 <?= Form::open('contact', 'contact/form') ?>
 <table>
 <tr>
@@ -9,7 +9,8 @@
     <td><?= HTML::input('message->name', array('class' => 'input-field')) ?> <?= HTML::validation_message('message->name') ?></td>
 </tr>
 <tr>
-    <td class="align-right">Email address</td>
+    <td class="align-right">
+<a href="https://edit.yahoo.com/registration">Yahoo email address</a></td>
     <td><?= HTML::input('message->email', array('class' => 'input-field')) ?> <?= HTML::validation_message('message->email') ?></td>
 </tr>
 <tr>
@@ -21,8 +22,8 @@
     <td><?= HTML::input('message->timezone', array('class' => 'input-field')) ?> <?= HTML::validation_message('message->timezone') ?></td>
 </tr>
 <tr>
-    <td class="align-right">Why you'd like to join<br/>(or another message)</td>
-    <td><?= HTML::textarea('message->content', array('cols' => 50, 'rows' => 5)) ?></td>
+    <td class="align-right">Why you'd like to join<br/>and how you found us</td>
+    <td><?= HTML::textarea('message->content', array('cols' => 50, 'rows' => 10)) ?></td>
 </tr>
 <tr>
     <td class="align-right"></td>

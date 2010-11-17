@@ -6,6 +6,7 @@ en:
     valid_email_needs_a_dot: Email should include "."
     valid_email_cannot_start_with_dot: Email cannot start with "."
     valid_email_cannot_end_with_dot: Email cannot end with "."
+    valid_email_must_be_yahoo: Email must be at Yahoo
     valid_length_too_short: Provide more info please
     valid_length_too_long: Provide less info please
     valid_name_can_only_include_words: Name can only include words
@@ -18,6 +19,7 @@ es:
     valid_email_needs_a_dot: Email should include "."
     valid_email_cannot_start_with_dot: Email cannot start with "."
     valid_email_cannot_end_with_dot: Email cannot end with "."
+    valid_email_must_be_yahoo: Email must be at Yahoo
     valid_length_too_short: Provide more info please
     valid_length_too_long: Provide less info please
     valid_name_can_only_include_words: Name can only include words
