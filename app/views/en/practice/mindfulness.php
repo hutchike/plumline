@@ -17,7 +17,7 @@ We follow the following Sangha format:
 
 <p>Plumline members came up with the following guideline which makes online discussion efficient:</p>
 
-<p>Just as in face to face Sangha, we use the bow as a signal that we would like to speak. When you wish to speak, type in the word "bow" and post it so the group knows you wish to speak. Then type your comments and post them, taking as much time as you need. When you are finished speaking post the word "bow" again to let everyone know when you are finished.</p>
+<p>Just as in face to face Sangha, we use the bow as a signal that we would like to speak. When you wish to speak, type in the word "Bow" and post it so the group knows you wish to speak. Then type your comments and post them, taking as much time as you need. When you are finished speaking post the word "Bow" again to let everyone know when you are finished.</p>
 
 <p>This allows each of us to speak without interruption. This also allows us to follow our breath and practice being mindful, fully present, as we wait for the person typing to post their message.</p>
 
