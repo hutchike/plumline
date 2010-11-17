@@ -1,6 +1,7 @@
 <p>
     Please download and install <a href="http://messenger.yahoo.com/">Yahoo Messenger</a> on your<br/>
     computer if you do not already use it. (It is required).<br/>
+    Our e-Sangha meeting format is <a href="/practice/mindfulness">described here</a>.
 </p>
 <?= Form::open('contact', 'contact/form') ?>
 <table>
