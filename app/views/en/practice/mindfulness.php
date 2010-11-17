@@ -12,7 +12,7 @@ We follow the following Sangha format:
 <ol>
     <li>20-25 minute seated meditation, or feel free to do walking meditation if you prefer.<br/>
         (Note: If your computer can receive streaming audio and/or video you are often invited to share in a guided meditation).</li>
-    <li>Reading of the 5 Mindfulness Trainings.</li>
+    <li>Reading of <a href="the-5-mindfulness-trainings">the 5 Mindfulness Trainings</a>.</li>
     <li>Discussion for the rest of the hour to 2 hours for those who wish to stay with the discussion.<br/>
         (We also, sometimes, contemplate a reading by Thay during part of this period).</li>
 </ol>
