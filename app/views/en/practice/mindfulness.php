@@ -10,12 +10,14 @@
 <h3>About our Sangha meeting format</h3>
 We follow the following Sangha format:
 <ol>
-    <li>20-25 minute seated meditation (feel free to do walking meditation if you  prefer)<br/>(Note: If your computer can receive streaming audio and/or video you are often invited to share in a guided meditation).</li>
+    <li>20-25 minute seated meditation, or feel free to do walking meditation if you prefer.<br/>
+        (Note: If your computer can receive streaming audio and/or video you are often invited to share in a guided meditation).</li>
     <li>Reading of the 5 Mindfulness Trainings</li>
-    <li>Discussion for the rest of the hour to 2 hours for those who wish to stay with the discussion.<br/>(We also, sometimes, contemplate a reading by Thay during part of this period).</li>
+    <li>Discussion for the rest of the hour to 2 hours for those who wish to stay with the discussion.<br/>
+        (We also, sometimes, contemplate a reading by Thay during part of this period).</li>
 </ol>
 
-<p>Plumline members came up with the following guideline which makes online discussion efficient:</p>
+<p>We have adopted the following guideline which makes online discussion efficient:</p>
 
 <p>Just as in face to face Sangha, we use the bow as a signal that we would like to speak. When you wish to speak, type in the word "Bow" and post it so the group knows you wish to speak. Then type your comments and post them, taking as much time as you need. When you are finished speaking post the word "Bow" again to let everyone know when you are finished.</p>
 
