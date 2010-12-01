@@ -8,6 +8,7 @@ create table messages
     password    varchar(255),
     timezone    varchar(255),
     country     varchar(255),
+    meeting     varchar(255),
     content     text,
     status      char(1),
     created_at  datetime,
