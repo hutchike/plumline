@@ -23,6 +23,10 @@
     <td><?= HTML::input('message->timezone', array('class' => 'input-field')) ?> <?= HTML::validation_message('message->timezone') ?></td>
 </tr>
 <tr>
+    <td class="align-right">Preferred meeting</td>
+    <td><?= HTML::select('message->meeting', array('No preference / Not sure', 'Monday 11am Central (GMT-6)', 'Thursday 7pm Central (GMT-6)'), $message->meeting, array('class' => 'input-field')) ?> <?= HTML::validation_message('message->timezone') ?></td>
+</tr>
+<tr>
     <td class="align-right">Why you'd like to join<br/>and how you found us</td>
     <td><?= HTML::textarea('message->content', array('cols' => 50, 'rows' => 10)) ?></td>
 </tr>
