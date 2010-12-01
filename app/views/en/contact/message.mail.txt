@@ -3,6 +3,7 @@ Plumline website message
 
 Name: <?= $message->name . "\n" ?>
 Email: <?= $message->email . "\n" ?>
+Meeting: <?= $message->meeting . "\n" ?>
 Country: <?= $message->country . "\n" ?>
 Timezone: <?= $message->timezone . "\n" ?>
 
