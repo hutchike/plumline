@@ -1,6 +1,6 @@
 <?
 load_model('Message');
-load_helper('Form');
+load_helper('Spam');
 
 class Contact_controller extends App_controller
 {
@@ -8,7 +8,7 @@ class Contact_controller extends App_controller
     {
         $this->render->title = 'Contact form';
         $message = $this->render->message = new Message($this->params->message);
-        if (Form::is_spam($this->params)) return;
+        if (Spam::is_spam($this->params)) return;
         $message->status = 'P'; // Pending
         if ($message->save())
         {
