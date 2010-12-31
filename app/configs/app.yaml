@@ -6,7 +6,7 @@ ini:
     date.timezone: America/Mexico_City
     log_errors: true
     track_errors: true
-    display_errors: true
+    display_errors: false
 
 settings:
     testing_enabled: true
@@ -19,27 +19,27 @@ settings:
     params_strip_slashes: true
     supported_languages: [en]
     default_language: en
-    cookie_domain: .website.org
+    cookie_domain: .plumline.org
     cache_expiry_secs: 3600
 
 testing:
-    contact_email: support@website.org
-    webmaster_email: webmaster@website.org
-    app_name: My Application
-    app_test_controller_list: [User]
-    app_test_view_path_list: [/, user/login, user/logout]
+    contact_email: plumline@elitemail.org
+    webmaster_email: kevin.hutchinson@guanoo.com
+    app_name: Plumline
+    app_test_controller_list: [Contact, Practice]
+    app_test_view_path_list: [/, contact/form]
 
 database:
-    connector: SQLite3
+    connector: MySQLi
     hostname: localhost
-    username: root
-    password: 
-    database_live: app/data/myapp_live.db
-    database_test: app/data/myapp_test.db
+    username: plumline
+    password: breathing
+    database_live: plumline_live
+    database_test: plumline_test
 
 content:
-    file_url_prefix: /
-    view_url_prefix: /
+    file_uri_prefix: /
+    view_uri_prefix: /
     default_content_type: html
     default_controller: App
     default_folder: default
