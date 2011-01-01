@@ -11,9 +11,9 @@
         </div>
     </div>
     <div id="content">
-<?= indent("<h3>$title</h3>", 8) ?>
-<?= $flash->notice ? indent("<div id=\"flash\">$flash->notice</div>", 8) : '' ?>
-<?= indent($content, 8) ?>
+<?= indent(8, "<h3>$title</h3>") ?>
+<?= $flash->notice ? indent(8, "<div id=\"flash\">$flash->notice</div>") : '' ?>
+<?= indent(8, $content) ?>
     </div>
     <div id="footer">
         Copyright &copy; <?= strftime('%Y') ?> Plumline Sangha
