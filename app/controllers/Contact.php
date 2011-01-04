@@ -19,7 +19,7 @@ class Contact_controller extends App_controller
 
     private function send($message)
     {
-        return $this->send_mail('mail/message', array(
+        return $this->send_mail('message', array(
                                     'to'       => CONTACT_EMAIL,
                                     'from'     => $message->email,
                                     'subject'  => 'Plumline website message',
