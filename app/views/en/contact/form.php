@@ -12,7 +12,7 @@
 <tr>
     <td class="align-right">
 <a href="https://edit.yahoo.com/registration">Yahoo email address</a></td>
-    <td><?= HTML::input('message->email', array('class' => 'input-field')) ?> <?= HTML::validation_message('message->email') ?></td>
+    <td><?= HTML::input('message->email', array('class' => 'input-field')) ?> (required) <?= HTML::validation_message('message->email') ?></td>
 </tr>
 <tr>
     <td class="align-right">Other email address*</td>
