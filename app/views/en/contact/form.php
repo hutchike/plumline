@@ -12,7 +12,11 @@
 <tr>
     <td class="align-right">
 <a href="https://edit.yahoo.com/registration">Yahoo email address</a></td>
-    <td><?= HTML::input('message->email', array('class' => 'input-field')) ?> <?= HTML::validation_message('message->email') ?></td>
+    <td><?= HTML::input('message->email', array('class' => 'input-field')) ?> (required) <?= HTML::validation_message('message->email') ?></td>
+</tr>
+<tr>
+    <td class="align-right">Other email address*</td>
+    <td><?= HTML::input('message->email_other', array('class' => 'input-field')) ?> (optional) <?= HTML::validation_message('message->email_other') ?></td>
 </tr>
 <tr>
     <td class="align-right">Country</td>
@@ -40,3 +44,7 @@
 </table>
 </form>
 <?= Spam::script() ?>
+
+*Some people use their Yahoo email address just for instant messaging (online chat).<br/>
+We ask them to consider providing an alternative email address so that we can contact<br/>
+them more effectively about Sangha matters.
