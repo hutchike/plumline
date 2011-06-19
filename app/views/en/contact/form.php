@@ -28,7 +28,7 @@
 </tr>
 <tr>
     <td class="align-right">Preferred meeting</td>
-    <td><?= HTML::select('message->meeting', array('No preference / Not sure', 'Monday 11am Central (GMT-6)', 'Thursday 7pm Central (GMT-6)', 'Both meetings'), $message->meeting, array('class' => 'input-field')) ?> <?= HTML::validation_message('message->meeting') ?></td>
+    <td><?= HTML::select('message->meeting', array('No preference / Not sure', 'Monday 11am Central (GMT-6)', 'Monday 7pm Central (GMT-6)', 'Both meetings'), $message->meeting, array('class' => 'input-field')) ?> <?= HTML::validation_message('message->meeting') ?></td>
 </tr>
 <tr>
     <td class="align-right">Why you'd like to join<br/>and how you found us</td>
