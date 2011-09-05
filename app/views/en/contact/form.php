@@ -1,3 +1,6 @@
+<div class="float-right box">
+    We also have a Facebook group called "Plumline" - please feel free to join us!
+</div>
 <p>
     Please download and install <a href="http://messenger.yahoo.com/">Yahoo Messenger</a> on your<br/>
     computer if you do not already use it. (It is required).<br/>
