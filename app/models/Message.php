@@ -14,7 +14,10 @@ class Message extends Model
 
     public function is_yahoo_email($email)
     {
-        if (strpos(strtolower($email), '@yahoo.') === FALSE)
+        // Check for both yahoo.com and ymail.com email addresses
+
+        if (strpos(strtolower($email), '@yahoo.') === FALSE &&
+            strpos(strtolower($email), '@ymail.') === FALSE)
         {
             return 'VALID_EMAIL_MUST_BE_YAHOO';
         }
