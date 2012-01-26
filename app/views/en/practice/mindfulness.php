@@ -7,8 +7,8 @@
     <li><a href="the-5-hindrances">The 5 hindrances</a> - about obstacles to practice</li>
 </ul>
 
-<h3>About our Sangha meeting format</h3>
-We meet twice a week for between 1 and 2 hours, following our Sangha format:
+<a name="monday"></a><h3>About our Monday Sangha meeting format</h3>
+We meet twice on Mondays for between 1 and 2 hours, following our Sangha format:
 <ol>
     <li>20-25 minute seated meditation, or feel free to do walking meditation if you prefer.<br/>
         (Note: If your computer can receive streaming audio and/or video you are often invited to share in a guided meditation).</li>
@@ -16,6 +16,9 @@ We meet twice a week for between 1 and 2 hours, following our Sangha format:
     <li>Discussion for the rest of the hour to 2 hours for those who wish to stay with the discussion.<br/>
         (We also, sometimes, contemplate a reading by Thay during part of this period).</li>
 </ol>
+
+<a name="wednesday"></a><h3>About our Wednesday Sangha meeting format</h3>
+<a href="https://plus.google.com/102179884306390353517/posts">Alipasha Razzaghipour</a> has kindly organized our Wednesday meeting at 9am GMT. This Sangha meeting is conducted using Google Plus, so please connect with Alipasha by clicking the link.
 
 <p>We have adopted the following guideline to make our online discussion more efficient:</p>
 

@@ -31,3 +31,5 @@
 Australia, Austria, Canada, South America, Africa, France, Germany, Greece, India, Ireland, Israel, Malaysia, Mexico, Norway, Scotland, Spain, Syria, Senegal, Thailand, UK, United Arab Emirates, US.</p>
 
 <p>"Plumline has already become more than Allan and I imagined.  It has become a vital worldwide Sangha connection" ~ one we hope will continue for years to come.</p>
+
+<p>In January 2012, <a href="https://plus.google.com/102179884306390353517/posts">Alipasha Razzaghipour</a> joined our Sangha and makes possible our <a href="http://plumline.org/practice/mindfulness#wednesday">Wednesday Sangha meeting</a> using Google Plus.
