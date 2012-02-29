@@ -16,6 +16,7 @@ We meet twice on Mondays for between 1 and 2 hours, following our Sangha format:
     <li>Discussion for the rest of the hour to 2 hours for those who wish to stay with the discussion.<br/>
         (We also, sometimes, contemplate a reading by Thay during part of this period).</li>
 </ol>
+We also host a meeting using <a href="https://plus.google.com/100453604255526795394/posts">Google Plus</a> on Thursday morning from 9am to 10:30am GMT, using our webcams to share a more intimate experience.
 
 <a name="wednesday"></a><h3>About our Wednesday Sangha meeting format</h3>
 Thuy Cu has kindly organized our Wednesday meeting at 9am GMT. This Sangha meeting is conducted using Google Plus, so please connect with our Plumline group on Google Plus by clicking <a href="https://plus.google.com/100453604255526795394/posts">this link</a>.
