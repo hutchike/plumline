@@ -1,5 +1,6 @@
 <div class="float-right box">
-    We also have a Facebook group called "Plumline" - please feel free to join us!
+    <p>If you'd like to connect via Google Plus, please click <a href="https://plus.google.com/100453604255526795394/posts">this link</a>.</p>
+    <p>We also have a Facebook group called "Plumline" - please feel free to join us!</p>
 </div>
 <p>
     Please download and install <a href="http://messenger.yahoo.com/">Yahoo Messenger</a> on your<br/>
