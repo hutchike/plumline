@@ -18,8 +18,8 @@ We meet twice on Mondays for between 1 and 2 hours, following our Sangha format:
 </ol>
 We also host a meeting using <a href="https://plus.google.com/100453604255526795394/posts">Google Plus</a> on Thursday morning from 9am to 10:30am GMT, using our webcams to share a more intimate experience.
 
-<a name="wednesday"></a><h3>About our Wednesday Sangha meeting format</h3>
-Thuy Cu has kindly organized our Wednesday meeting at 9am GMT. This Sangha meeting is conducted using Google Plus, so please connect with our Plumline group on Google Plus by clicking <a href="https://plus.google.com/100453604255526795394/posts">this link</a>.
+<a name="wednesday"></a><h3>About our Thursday Sangha meeting format</h3>
+Thuy Cu has kindly organized our Thursday meeting at 9am GMT. This Sangha meeting is conducted using Google Plus, so please connect with our Plumline group on Google Plus by clicking <a href="https://plus.google.com/100453604255526795394/posts">this link</a>.
 
 <p>We have adopted the following guideline to make our online discussion more efficient:</p>
 
