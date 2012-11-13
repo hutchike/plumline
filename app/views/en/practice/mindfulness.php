@@ -7,11 +7,11 @@
     <li><a href="the-5-hindrances">The 5 hindrances</a> - about obstacles to practice</li>
 </ul>
 
-<a name="wednesday"></a><h3>About our Thursday Sangha meeting format</h3>
-Thuy Cu has kindly organized our Thursday meeting from 9am to 10:30am GMT. This Sangha meeting is conducted using Google Plus, so please connect with our Plumline group on Google Plus by clicking <a href="https://plus.google.com/100453604255526795394/posts">this link</a>.
+<a name="google-sanghas"></a><h3>About our Google+ Sangha meeting format</h3>
+Thuy Cu has kindly organized our Thursday meeting from 9am to 10:30am GMT. This Sangha meeting is conducted using Google+ so please connect with our Plumline group on Google+ by clicking <a href="https://plus.google.com/100453604255526795394/posts">this link</a>.
 
-<a name="monday"></a><h3>About our Monday Sangha meeting format</h3>
-We meet twice on Mondays for between 1 and 2 hours, following our Sangha format:
+<a name="yahoo-sanghas"></a><h3>"Hokey Pokey" and Source Sangha format</h3>
+Our "Hokey Pokey" Sangha and Source Sangha meet on Mondays for between 1 and 2 hours, following our Sangha format:
 <ol>
     <li>20-25 minute seated meditation, or feel free to do walking meditation if you prefer.<br/>
         (Note: If your computer can receive streaming audio and/or video you are often invited to share in a guided meditation).</li>

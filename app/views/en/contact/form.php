@@ -1,12 +1,7 @@
 <div class="float-right box">
-    <p>If you'd like to connect via Google Plus, please click <a href="https://plus.google.com/100453604255526795394/posts">this link</a>.</p>
-    <p>We also have a Facebook group called "Plumline" - please feel free to join us!</p>
+    <p>If you'd like to connect via <b>Google+</b> please click <a href="https://plus.google.com/100453604255526795394/posts">this link</a>.</p>
+    <p>We also have a <b>Facebook</b> group called "Plumline" - please feel free to join us!</p>
 </div>
-<p>
-    Please download and install <a href="http://messenger.yahoo.com/">Yahoo Messenger</a> on your<br/>
-    computer if you do not already use it. (It is required).<br/>
-    Our e-Sangha meeting format is <a href="/practice/mindfulness">described here</a>.
-</p>
 <?= HTML::form_open('contact', 'contact/form', Spam::attrs()) ?>
 <table>
 <tr>
@@ -48,6 +43,14 @@
 </table>
 </form>
 <?= Spam::script() ?>
+
+<h3>Source Sangha and "Hokey Pokey" Sangha</h3>
+<p>
+    Both of these Sanghas meet using Yahoo Messenger.<br/>
+    Please download and install <a href="http://messenger.yahoo.com/">Yahoo Messenger</a> on your<br/>
+    computer if you do not already use it. (It is required).<br/>
+    Our e-Sangha meeting format is <a href="/practice/mindfulness">described here</a>.
+</p>
 
 *Some people use their Yahoo email address just for instant messaging (online chat).<br/>
 We ask them to consider providing an alternative email address so that we can contact<br/>

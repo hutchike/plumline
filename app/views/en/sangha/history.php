@@ -32,4 +32,4 @@ Australia, Austria, Canada, South America, Africa, France, Germany, Greece, Indi
 
 <p>"Plumline has already become more than Allan and I imagined.  It has become a vital worldwide Sangha connection" ~ one we hope will continue for years to come.</p>
 
-<p>In January 2012, <a href="">Alipasha Razzaghipour</a> joined our Sangha and makes possible our <a href="http://plumline.org/practice/mindfulness#wednesday">Wednesday Sangha meeting</a> using Google Plus. To join the Plumline group on Googe Plus, please click <a href="https://plus.google.com/100453604255526795394/posts">this link</a>.
+<p>In January 2012, <a href="">Alipasha Razzaghipour</a> joined our Sangha and makes possible our <a href="http://plumline.org/practice/mindfulness#google-sanghas">Google+ Sangha meetings</a>. To join the Plumline group on Googe+ please click <a href="https://plus.google.com/100453604255526795394/posts">this link</a>.
