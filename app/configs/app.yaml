@@ -23,7 +23,7 @@ settings:
     cache_expiry_secs: 3600
 
 testing:
-    contact_email: plumline@elitemail.org
+    contact_email: plumline@elitemail.org, plumlinesangha@gmail.com
     webmaster_email: kevin.hutchinson@guanoo.com
     app_name: Plumline
     app_test_controller_list: [Contact, Practice]
