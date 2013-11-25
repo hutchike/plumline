@@ -8,7 +8,7 @@
 </ul>
 
 <a name="google-sanghas"></a><h3>About our Google+ sangha meeting format</h3>
-On Google+, our <a href="https://plus.google.com/u/0/+PlumlineOrg/posts">Plumline page</a> provides an umbrella for a wide range of Google+ sanghas including <a href="https://plus.google.com/u/0/communities/110119710537306814784">Plumline Heart Sangha</a>, <a href="https://plus.google.com/u/0/communities/100775744818095264966">Three Minute Breathing Space</a> and <a href="https://plus.google.com/u/0/communities/113548146879221893287">World Interbeing</a>. Please contact <a href="https://plus.google.com/u/0/+AlipashaRazzaghipour/posts">Alipasha Razzaghipour</a> for more information about the sanghas that might best suit your practice.
+On Google+, our <a href="https://plus.google.com/u/0/+PlumlineOrg/posts">Plumline page</a> provides an umbrella for a wide range of Google+ sanghas including <a href="https://plus.google.com/u/0/communities/110119710537306814784">Plumline Heart Sangha</a>, <a href="https://plus.google.com/u/0/communities/100775744818095264966">Three Minute Breathing Space</a>, <a href="https://plus.google.com/u/0/communities/113548146879221893287">World Interbeing</a> and <b>many more</b>. Please contact <a href="https://plus.google.com/u/0/+AlipashaRazzaghipour/posts">Alipasha Razzaghipour</a> for more information about the sanghas that might best suit your practice.
 
 <a name="yahoo-sanghas"></a><h3>About our Yahoo "Hokey Pokey" sangha format</h3>
 Our "Hokey Pokey" sangha meets on Mondays for between 1 and 2 hours, following our format:
