@@ -7,11 +7,11 @@
     <li><a href="the-5-hindrances">The 5 hindrances</a> - about obstacles to practice</li>
 </ul>
 
-<a name="google-sanghas"></a><h3>About our Google+ Sangha meeting format</h3>
-Thuy Cu has kindly organized our Thursday meeting from 9am to 10:30am GMT. This Sangha meeting is conducted using Google+ so please connect with our Plumline group on Google+ by clicking <a href="https://plus.google.com/100453604255526795394/posts">this link</a>.
+<a name="google-sanghas"></a><h3>About our Google+ sangha meeting format</h3>
+On Google+, our <a href="https://plus.google.com/u/0/+PlumlineOrg/posts">Plumline page</a> provides an umbrella for a wide range of Google+ sanghas including <a href="https://plus.google.com/u/0/communities/110119710537306814784">Plumline Heart Sangha</a>, <a href="https://plus.google.com/u/0/communities/100775744818095264966">Three Minute Breathing Space</a> and <a href="https://plus.google.com/u/0/communities/113548146879221893287">World Interbeing</a>. Please contact <a href="https://plus.google.com/u/0/+AlipashaRazzaghipour/posts">Alipasha Razzaghipour</a> for more information about the sanghas that might best suit your practice.
 
-<a name="yahoo-sanghas"></a><h3>"Hokey Pokey" and Source Sangha format</h3>
-Our "Hokey Pokey" Sangha and Source Sangha meet on Mondays for between 1 and 2 hours, following our Sangha format:
+<a name="yahoo-sanghas"></a><h3>About our Yahoo "Hokey Pokey" sangha format</h3>
+Our "Hokey Pokey" sangha meets on Mondays for between 1 and 2 hours, following our format:
 <ol>
     <li>20-25 minute seated meditation, or feel free to do walking meditation if you prefer.<br/>
         (Note: If your computer can receive streaming audio and/or video you are often invited to share in a guided meditation).</li>
@@ -27,3 +27,5 @@ Our "Hokey Pokey" Sangha and Source Sangha meet on Mondays for between 1 and 2 h
 <p>This allows each of us to speak without interruption. This also allows us to follow our breath and practice being mindful, fully present, as we wait for the person typing to post their message.</p>
 
 <p>This e-version of a sangha is a different way of communication, one many of us are not used to. Yet we have found it to be a very viable way to connect with like-minded people looking for Sangha connection.</p>
+
+<p>To join our us, please fill out our <a href="/contact/form">contact form</a>.</p>

@@ -3,7 +3,7 @@
         <a href="/"><img src="/images/plumline.png" width="300" height="109" alt="Plumline" /></a>
         <div id="links">
             <ul>
-                <li class="first"><a href="/sangha/history">Our history</a></li>
+                <li class="first"><a href="/">Home</a></li>
                 <li><a href="/practice/mindfulness">Mindfulness practice</a></li>
                 <li><a href="/practice/links">Useful links</a></li>
                 <li><a href="/contact/form">Contact form</a></li>
