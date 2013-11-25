@@ -28,4 +28,4 @@ Our "Hokey Pokey" sangha meets on Mondays for between 1 and 2 hours, following o
 
 <p>This e-version of a sangha is a different way of communication, one many of us are not used to. Yet we have found it to be a very viable way to connect with like-minded people looking for Sangha connection.</p>
 
-<p>To join our us, please fill out our <a href="/contact/form">contact form</a>.</p>
+<p>To join us, please fill out our <a href="/contact/form">contact form</a>.</p>
