@@ -22,5 +22,5 @@ To learn about the format of our sanghas, please read our <a href="practice/mind
 For information about our Yahoo Messenger sangha, please fill out our <a href="/contact/form">Contact Form</a>.
 </p>
 <p>
-For information about our audio/video sanghas on Google+, please see our <a href="https://plus.google.com/u/0/+PlumlineOrg/posts">Google+ page</a>.
+For information about our audio/video sanghas on Google+, please see our <a href="/join">Google+ page</a>.
 </p>

@@ -1,5 +1,5 @@
 <div class="float-right box">
-    <p>If you'd like to connect via <b>Google+</b> please click <a href="https://plus.google.com/u/0/+PlumlineOrg/posts">this link</a>.</p>
+    <p>If you'd like to connect via <b>Google+</b> please click <a href="/join">this link</a>.</p>
     <p>We also have a <b>Facebook</b> group called "Plumline" - please feel free to join us!</p>
 </div>
 <?= HTML::form_open('contact', 'contact/form', Spam::attrs()) ?>

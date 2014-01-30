@@ -10,6 +10,7 @@
     <li><a href="http://www.parallax.org/">Parallax Press</a></li>
     <li><a href="http://www.peacefulpresence.org/">Peaceful Presence Sangha (Online)</a>
     <li><a href="http://www.plumvillage.org/">Plum Village</a></li>
+    <li><a href="/join">Plumline Sanghas on Google+</a></li>
 </ul>
 
 <p>To suggest a link, please <a href="/contact/form">contact us</a>.
