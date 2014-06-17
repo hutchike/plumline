@@ -8,7 +8,7 @@ class App_controller extends Controller
         $this->render->user_email = $this->cookie->user_email;
         $this->render->title = 'Supporting online sanghas in the tradition of Thich Nhat Hanh';
         $this->render->onload = 'plumline.onload()';
-        $this->render->layout = 'simple';
+        $this->render->layout = 'framed'; // Was "simple"
         $this->render->image = $this->get_random_image();
     }
 
